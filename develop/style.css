@@ -1633,10 +1633,7 @@ body {
 
 
 /* start description page -------------------------------------------- */
-/* #main {
-  display: none;
-} */
-.pageDescription {
+#main {
   display: none;
 }
 .description {
